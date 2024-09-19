@@ -1,0 +1,14 @@
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\bin\Debug\net8.0\e-money.exe
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\bin\Debug\net8.0\e-money.deps.json
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\bin\Debug\net8.0\e-money.runtimeconfig.json
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\bin\Debug\net8.0\e-money.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\bin\Debug\net8.0\e-money.pdb
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\obj\Debug\net8.0\e-money.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\obj\Debug\net8.0\e-money.AssemblyInfoInputs.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\obj\Debug\net8.0\e-money.AssemblyInfo.cs
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\obj\Debug\net8.0\e-money.csproj.CoreCompileInputs.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\obj\Debug\net8.0\e-money.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\obj\Debug\net8.0\refint\e-money.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\obj\Debug\net8.0\e-money.pdb
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\obj\Debug\net8.0\e-money.genruntimeconfig.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\e-money\obj\Debug\net8.0\ref\e-money.dll
