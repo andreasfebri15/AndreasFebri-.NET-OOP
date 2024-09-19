@@ -1,0 +1,14 @@
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\obj\Debug\net8.0\Inherintance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\obj\Debug\net8.0\Inherintance.AssemblyInfoInputs.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\obj\Debug\net8.0\Inherintance.AssemblyInfo.cs
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\obj\Debug\net8.0\Inherintance.csproj.CoreCompileInputs.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\bin\Debug\net8.0\Inherintance.exe
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\bin\Debug\net8.0\Inherintance.deps.json
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\bin\Debug\net8.0\Inherintance.runtimeconfig.json
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\bin\Debug\net8.0\Inherintance.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\bin\Debug\net8.0\Inherintance.pdb
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\obj\Debug\net8.0\Inherintance.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\obj\Debug\net8.0\refint\Inherintance.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\obj\Debug\net8.0\Inherintance.pdb
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\obj\Debug\net8.0\Inherintance.genruntimeconfig.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Inherintance\obj\Debug\net8.0\ref\Inherintance.dll

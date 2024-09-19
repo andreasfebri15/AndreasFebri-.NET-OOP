@@ -1,0 +1,14 @@
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\bin\Debug\net8.0\day 2.exe
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\bin\Debug\net8.0\day 2.deps.json
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\bin\Debug\net8.0\day 2.runtimeconfig.json
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\bin\Debug\net8.0\day 2.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\bin\Debug\net8.0\day 2.pdb
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\obj\Debug\net8.0\day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\obj\Debug\net8.0\day 2.AssemblyInfoInputs.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\obj\Debug\net8.0\day 2.AssemblyInfo.cs
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\obj\Debug\net8.0\day 2.csproj.CoreCompileInputs.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\obj\Debug\net8.0\day 2.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\obj\Debug\net8.0\refint\day 2.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\obj\Debug\net8.0\day 2.pdb
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\obj\Debug\net8.0\day 2.genruntimeconfig.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\day 2\obj\Debug\net8.0\ref\day 2.dll

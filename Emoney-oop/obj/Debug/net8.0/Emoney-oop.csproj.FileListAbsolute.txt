@@ -1,0 +1,14 @@
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\bin\Debug\net8.0\Emoney-oop.exe
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\bin\Debug\net8.0\Emoney-oop.deps.json
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\bin\Debug\net8.0\Emoney-oop.runtimeconfig.json
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\bin\Debug\net8.0\Emoney-oop.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\bin\Debug\net8.0\Emoney-oop.pdb
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\obj\Debug\net8.0\Emoney-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\obj\Debug\net8.0\Emoney-oop.AssemblyInfoInputs.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\obj\Debug\net8.0\Emoney-oop.AssemblyInfo.cs
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\obj\Debug\net8.0\Emoney-oop.csproj.CoreCompileInputs.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\obj\Debug\net8.0\Emoney-oop.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\obj\Debug\net8.0\refint\Emoney-oop.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\obj\Debug\net8.0\Emoney-oop.pdb
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\obj\Debug\net8.0\Emoney-oop.genruntimeconfig.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Emoney-oop\obj\Debug\net8.0\ref\Emoney-oop.dll

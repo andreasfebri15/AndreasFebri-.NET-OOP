@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IDEAPAD GAMING\\source\\repos\\day 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1FB4F6-81B5-4686-89D4-5BA7A883FD48}|Emoney-oop\\Emoney-oop.csproj|c:\\users\\ideapad gaming\\source\\repos\\day 2\\emoney-oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1FB4F6-81B5-4686-89D4-5BA7A883FD48}|Emoney-oop\\Emoney-oop.csproj|solutionrelative:emoney-oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IDEAPAD GAMING\\source\\repos\\day 2\\Emoney-oop\\Program.cs",
+              "RelativeDocumentMoniker": "Emoney-oop\\Program.cs",
+              "ToolTip": "C:\\Users\\IDEAPAD GAMING\\source\\repos\\day 2\\Emoney-oop\\Program.cs",
+              "RelativeToolTip": "Emoney-oop\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAUwHsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:28:42.65Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

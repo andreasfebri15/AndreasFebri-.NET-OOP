@@ -1,0 +1,14 @@
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+C:\Users\IDEAPAD GAMING\source\repos\day 2\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
